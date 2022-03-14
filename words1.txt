@@ -20,6 +20,10 @@ allnighters
 anight
 anti-humanist
 anti-humanitarian
+apostle
+apostles
+apostleship
+apostleships
 apple-pie
 apple-pies
 arame
@@ -912,6 +916,8 @@ katakanas
 katas
 katsura
 katsuras
+kawaii
+kawaiis
 keiretsu
 keiretsus
 kendo
@@ -1592,6 +1598,7 @@ self-examination
 self-questioning
 self-searching
 sen
+senpai
 senryu
 sensei
 senseis
@@ -2018,6 +2025,8 @@ unbloodiest
 unbloody
 uncle-in-law
 uncles-in-law
+underclassman
+underclassmen
 undergod
 undergods
 undreamed
@@ -2066,6 +2075,8 @@ unwished
 unwishes
 unwishful
 unwishing
+upperclassman
+upperclassmen
 urushiol
 urushiols
 wakame
